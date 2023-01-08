@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alpcan Soydas</h1>
 <h3 align="center">Candidate AI&ML Engineer</h3>
 
-- 🌱 I’m currently learning **AI, Machine Learning & Deep Learning & Image Processing**
+- 🌱 I’m currently learning **AI, Machine Learning & Deep Learning & Computer Vision**
 
 - 📫 How to reach me **alpcan50@gmail.com**
 
