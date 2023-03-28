@@ -1,5 +1,5 @@
 # 💫 About Me:
-Candidate AI&ML Engineer<br>You can reach me: alpcan50@hotmail.com
+Candidate AI&ML Engineer<br>You can reach me: alpcan50@gmail.com
 
 
 ## 🌐 Socials:
