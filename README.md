@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alpcansoydas&label=Profile%20views&color=0e75b6&style=flat" alt="alpcansoydas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alpcansoydas" alt="alpcansoydas" /></a> </p>
-
 - 🔭 I’m currently working on **klassifier.com**
 
 - 📫 How to reach me **alpcan50@gmail.com**
@@ -22,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alpcansoydas&show_icons=true&locale=en&layout=compact" alt="alpcansoydas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alpcansoydas&show_icons=true&locale=en" alt="alpcansoydas" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alpcansoydas&" alt="alpcansoydas" /></p>
