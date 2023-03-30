@@ -16,3 +16,4 @@ Candidate AI&ML Engineer<br>You can reach me: alpcan50@gmail.com
 [![](https://visitcount.itsvg.in/api?id=alpcansoydas&icon=0&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
