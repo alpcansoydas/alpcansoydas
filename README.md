@@ -1,4 +1,4 @@
-<h1 align="center">I'm Alpcan Soydaş</h1>
+<h1 align="center">Alpcan Soydaş</h1>
 <h3 align="center">Candidate AI&ML Engineer and Senior Electronics Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alpcansoydas&label=Profile%20views&color=0e75b6&style=flat" alt="alpcansoydas" /> </p>
