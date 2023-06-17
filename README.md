@@ -13,7 +13,7 @@
   <a href="https://stackoverflow.com/users/10928823/alpcan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
   </a>
-  <a href="alpcan50@gmail.com" target="_blank">
+  <a href="alpcan50@gmail.com" target="alpcan50@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
