@@ -1,7 +1,4 @@
 <h2 align="center">Alpcan Soydaş</h2>
-
-###
-
 <h4 align="center">AI&ML Engineer</h4>
 
 ###
