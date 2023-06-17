@@ -1,7 +1,6 @@
 <h2 align="center">Alpcan Soydaş</h2>
 <h4 align="center">AI&ML Engineer</h4>
 
-###
 
 <div align="center">
   <a href="https://linkedin.com/in/alpcansoydas" target="_blank">
