@@ -1,4 +1,4 @@
-<h1 align="center">Alpcan Soydaş</h1>
+<h2 align="center">Alpcan Soydaş</h2>
 
 ###
 
@@ -23,7 +23,7 @@ I’m currently working on [Klassifier](https://klassifier.com/home) : Use Klass
 
 <h4 align="left">You can reach me at alpcan50@gmail.com </h4>
 
-<h3 align="left">🛠 Language and tools</h3>
+<h4 align="left">🛠 Language and tools</h4>
 
 ###
 
