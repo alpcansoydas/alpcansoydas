@@ -20,11 +20,11 @@
 
 ###
 
-<h3 align="left">I’m currently working on https://klassifier.com : Use Klassifier to draw conclusions from Extensive data sets. A No Code Machine Learning software; made for users with no ML background; easy to train and easy to use.</h3>
+<h4 align="left">I’m currently working on https://klassifier.com : Use Klassifier to draw conclusions from Extensive data sets. A No Code Machine Learning software; made for users with no ML background; easy to train and easy to use.</h4>
 
 ###
 
-<h4 align="center">You can reach me: alpcan50@gmail.com </h4>
+<h4 align="left">You can reach me: alpcan50@gmail.com </h4>
 
 <h3 align="left">🛠 Language and tools</h3>
 
