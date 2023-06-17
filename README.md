@@ -24,6 +24,8 @@
 
 ###
 
+<h4 align="center">You can reach me: alpcan50@gmail.com </h4>
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
