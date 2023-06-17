@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">I’m currently working on **[Klassifier](https://klassifier.com/home) : Use Klassifier to draw conclusions from Extensive data sets. A No Code Machine Learning software; made for users with no ML background; easy to train and easy to use.**</h2>
+<h2 align="left">I’m currently working on [Klassifier](https://klassifier.com/home) : Use Klassifier to draw conclusions from Extensive data sets. A No Code Machine Learning software; made for users with no ML background; easy to train and easy to use.</h2>
 
 ###
 
