@@ -24,7 +24,7 @@ I’m currently working on [Klassifier](https://klassifier.com/home) : Use Klass
 
 ###
 
-<h4 align="center">You can reach me at alpcan50@gmail.com </h4>
+<h4 align="left">You can reach me at alpcan50@gmail.com </h4>
 
 <h3 align="left">🛠 Language and tools</h3>
 
