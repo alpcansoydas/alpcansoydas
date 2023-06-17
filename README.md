@@ -49,9 +49,3 @@ I’m currently working on [Klassifier](https://klassifier.com/home) : Use Klass
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/alpcansoydas/count.svg?"  />
-</div>
-
-###
