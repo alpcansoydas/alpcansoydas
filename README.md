@@ -17,6 +17,4 @@ I’m currently working on [Klassifier](https://klassifier.com/home) : Use Klass
 
 You can reach me at alpcan50@gmail.com
 
-<h4 align="left">🛠 Language and tools</h4>
-
 ###
