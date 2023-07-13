@@ -11,7 +11,7 @@
   </a>
 </div>
 
-I’m currently working on [Klassifier](https://klassifier.com/home) : Use Klassifier to draw conclusions from Extensive data sets. A No Code Machine Learning software; made for users with no ML background; easy to train and easy to use.
+I’m currently working on [Klassifier](https://klassifier.com/home) : Klassifier is a no-code platform that gives you the power to examine large datasets using machine learning and developing models. All of the programs can be implemented without the need for a data science team in your company. In the current state of affairs, no-code machine learning in the insurance, banking and retail sectors is becoming increasingly popular.
 
 ###
 
