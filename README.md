@@ -11,13 +11,6 @@
   </a>
 </div>
 
-##### Area of interests:
-Machine Learning,
-Deep Learning,
-Natural Language Processing,
-Large Language Models,
-Digital Signal Processing,
-Image Processing,
 
 I’m currently working on [Klassifier](https://klassifier.com/home) : Klassifier is a no-code platform that gives you the power to examine large datasets using machine learning and developing models. All of the programs can be implemented without the need for a data science team in your company. In the current state of affairs, no-code machine learning in the insurance, banking and retail sectors is becoming increasingly popular.
 
@@ -26,3 +19,17 @@ I’m currently working on [Klassifier](https://klassifier.com/home) : Klassifie
 You can reach me at alpcan50@gmail.com
 
 ###
+
+##### Area of interests:
+
+Machine Learning,
+
+Deep Learning,
+
+Natural Language Processing,
+
+Large Language Models,
+
+Digital Signal Processing,
+
+Image Processing,
