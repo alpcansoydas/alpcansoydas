@@ -11,7 +11,7 @@
   </a>
 </div>
 
-<h4> Area of interests: </h4>
+### Area of interests:
 Machine Learning,
 Deep Learning,
 Natural Language Processing,
