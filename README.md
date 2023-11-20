@@ -21,7 +21,7 @@ You can reach me at alpcan50@gmail.com
 ###
 
 ##### Area of interests:
-Machine Learning
+Machine Learning,
 Deep Learning,
 Natural Language Processing,
 Image Processing,
