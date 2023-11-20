@@ -25,4 +25,5 @@ Machine Learning,
 Deep Learning,
 Natural Language Processing,
 Image Processing,
+Computer Vision,
 Signal Processing
